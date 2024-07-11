@@ -79,6 +79,7 @@ echo var_dump($firstNumber === $secondNumber);
 echo "<br>"; 
 
 
+
 echo "10 maior, igual, ou menor que 2? Resposta: ";
 /**
  * se for maior retorna = 1
